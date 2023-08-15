@@ -1,0 +1,5 @@
+Test Accuracy: 0.90
+Sensitivity: 0.9065
+Specificity: 0.901
+F1 Score: 0.9040139616055846
+AUC Score: 0.9683665000000001
